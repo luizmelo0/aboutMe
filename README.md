@@ -10,3 +10,4 @@ Meu nome é Luiz Fabiano tenho 15 anos, estudo na escola Estadual Doutor João B
 - Sou eclético
 - Meu esporte favotito é basquete
 - Gosto de sertanejo
+- Torço pro flamengo
